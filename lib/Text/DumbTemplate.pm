@@ -92,3 +92,11 @@ This is a very simple template module. One thing that's unique about this module
 is: it compiles template to a C<sprintf> format instead of Perl subroutines. The
 upside: it's blazing fast (e.g. several times faster than L<Template::Compiled>
 for small/simple template).
+
+
+=head1 SEE ALSO
+
+L<Text::sprintfn>
+
+L<Text::Table::Tiny> which also harness the power of C<sprintfn> to draw text
+tables.
