@@ -63,6 +63,8 @@ sub process {
 1;
 #ABSTRACT: Yet another template system, this one's dumb but fast
 
+=for Pod::Coverage ^(.+)$
+
 =head1 SYNOPSIS
 
  use Text::DumbTemplate;
