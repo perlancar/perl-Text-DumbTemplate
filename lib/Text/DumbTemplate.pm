@@ -100,5 +100,5 @@ for small/simple template).
 
 L<Text::sprintfn>
 
-L<Text::Table::Tiny> which also harness the power of C<sprintfn> to draw text
+L<Text::Table::Tiny> which also harness the power of C<sprintf> to draw text
 tables.
